@@ -2,7 +2,7 @@ DevSecOps is a mindset where security is built into every step of software devel
 
 ---
 
-# 🔐 DevSecOps Security Practices (From Simple → Advanced)
+# 🔐 DevSecOps Security Practices
 
 ## 1️⃣ **Git Security**
 Git security practices
