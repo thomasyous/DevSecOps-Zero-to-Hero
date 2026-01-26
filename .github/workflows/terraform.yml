@@ -30,7 +30,7 @@ jobs:
       # 3. Authenticate to Vault using JWT (OFFICIAL METHOD)
       - name: Authenticate to Vault
         env:
-          VAULT_ADDR: http://98.82.141.249:8200
+          VAULT_ADDR: http://3.83.52.41/:8200
         run: |
           VAULT_TOKEN=$(vault write -field=token auth/jwt/login \
             role=github-actions \
