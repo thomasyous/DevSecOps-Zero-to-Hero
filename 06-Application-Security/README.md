@@ -1,10 +1,4 @@
-# AppSec for Beginners  
-
-## Learn SAST, SCA & DAST Using an Intentionally Vulnerable Python App
-
-> ⚠️ **Disclaimer**
->
-> This project is intentionally insecure and built **only for learning**.
+# AppSec for Beginners - Learn SAST, SCA & DAST
 
 ---
 
